@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+venv/
+metrics_v1.json
