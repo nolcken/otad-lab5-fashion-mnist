@@ -1,0 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+numpy<2.3
+boto3>=1.34
+fastapi>=0.110
+uvicorn>=0.29
+requests>=2.31
